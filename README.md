@@ -1,1 +1,1 @@
-Live Demo: https://ssup.shrestha.github.io
+https://ssup-shrestha.github.io/
